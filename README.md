@@ -3,6 +3,8 @@ The USB Physical Security System is a cybersecurity-based project designed to pr
 This project combines hardware-level monitoring with software-based security policies to enhance endpoint protection.
 
 Features :
+
+
 USB Device Detection – Detects insertion/removal of USB devices in real-time
  Unauthorized Access Blocking – Blocks unknown or unregistered USB devices
  Device Whitelisting – Allows only trusted devices based on predefined rules
@@ -11,6 +13,7 @@ USB Device Detection – Detects insertion/removal of USB devices in real-time
  Data Protection – Prevents data exfiltration via removable devices
 
 Tech Stack :
+
 Programming Language: Python / C / Java (update based on your project)
 Libraries/Tools:
 PyUSB / OS-level APIs
